@@ -1339,7 +1339,7 @@
 
   .concept__image--stars {
     position: absolute;
-    right: -22px;
+    right: -8px;
     bottom: 38px;
     z-index: 2;
     width: 66%;
@@ -1357,7 +1357,7 @@
   .menu-toggle {
     position: fixed;
     top: 31px;
-    right: 44px;
+    right: 14px;
     z-index: 30;
     display: grid;
     gap: 8px;
@@ -1427,7 +1427,7 @@
 @media (max-width: 480px) {
   .menu-toggle {
     top: 37px;
-    right: 50px;
+    right: 20px;
     gap: 10px;
     width: 48px;
   }
